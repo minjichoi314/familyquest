@@ -1,3 +1,3 @@
 window.FQ_DRIVE_UPLOAD_URL =
-  "https://script.google.com/macros/s/AKfycbzslIOA7yUHXhw-GORunPYe2tl3v_kfw3RRqyqFTmxKFMKJ8Hb3P7Is0FSy7LT5ZDgOsg/exec";
+  "https://script.google.com/macros/s/AKfycbxsMmD4jXqPN4cPIe6XnupOC15f0yzz-Q9IC4LkUD9ZLSO8rG5NiGH9yUMyqwV1wVk5Kw/exec";
 
